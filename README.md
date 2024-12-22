@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science & analysis
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate with companies which need data scientist
-- 📫 How to reach me www.linkedin.com/in/rawan-rezk-027b4124b
+- 📫 How to reach me www.linkedin.com/in/rawanrezk
 
 
 <!---
